@@ -6,7 +6,7 @@ permalink: /author/
 
 <div class="row mb-5">
   <div class="col-md-4 mb-4 text-center">
-    <img src="{{ site.baseurl }}/assets/images/author.jpg" alt="Mikko Ahonen" class="img-fluid author-photo rounded shadow" onerror="this.src='https://via.placeholder.com/400/6c757d/ffffff?text=Mikko+Ahonen'">
+    <img src="{{ site.baseurl }}/assets/images/author.jpg" alt="Mikko Ahonen" class="img-fluid author-photo rounded shadow">
   </div>
   <div class="col-md-8">
     <h2 class="mb-3">Mikko Ahonen</h2>

@@ -10,7 +10,7 @@ Whether you have questions about Simple USM, want to discuss USM coaching for yo
 
 <div class="row mt-5">
   <div class="col-lg-8 mx-auto">
-    <form class="needs-validation" novalidate action="https://formspree.io/f/YOUR_FORM_ID" method="POST">
+    <form class="needs-validation" novalidate action="mailto:{{ site.email }}" method="POST">
       <div class="mb-3">
         <label for="name" class="form-label">Name *</label>
         <input type="text" class="form-control" id="name" name="name" required>
