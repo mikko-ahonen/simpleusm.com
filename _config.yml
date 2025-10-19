@@ -1,19 +1,22 @@
 # Site settings
 title: SimpleUSM
-email: contact@simpleusm.com
+email: mikko@usm.coach
 description: >-
-  Discover SimpleUSM - A comprehensive guide to understanding and implementing
-  Unified Service Management in a simple, practical way.
+  An introductory guide to Unified Service Management (USM) - A universal,
+  principle-based method for managing any service. Simple, practical, and free.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
-twitter_username: simpleusm
-github_username: simpleusm
+url: "http://simpleusm.com" # the base hostname & protocol for your site
+twitter_username:
+github_username:
 
 # Book information
 book:
-  title: "SimpleUSM"
-  subtitle: "Making Unified Service Management Simple"
-  author: "Your Name"
+  title: "Simple USM"
+  subtitle: "A Practical Introduction to Unified Service Management"
+  author: "Mikko Ahonen"
+  coauthor: "with copious help from Jan van Bon"
+  illustrator: "Kalle Ahonen"
+  copyright: "© Copyright SURVUZ & Jauzo Oy 2021"
 
 # Build settings
 markdown: kramdown

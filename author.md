@@ -5,106 +5,142 @@ permalink: /author/
 ---
 
 <div class="row mb-5">
-  <div class="col-md-4 mb-4">
-    <img src="{{ site.baseurl }}/assets/images/author.jpg" alt="Author Photo" class="img-fluid rounded shadow" onerror="this.src='https://via.placeholder.com/400x500/6c757d/ffffff?text=Author+Photo'">
+  <div class="col-md-4 mb-4 text-center">
+    <img src="{{ site.baseurl }}/assets/images/author.jpg" alt="Mikko Ahonen" class="img-fluid author-photo rounded shadow" onerror="this.src='https://via.placeholder.com/400/6c757d/ffffff?text=Mikko+Ahonen'">
   </div>
   <div class="col-md-8">
-    <h2 class="mb-3">{{ site.book.author }}</h2>
-    <p class="lead">Service Management Expert & Thought Leader</p>
+    <h2 class="mb-3">Mikko Ahonen</h2>
+    <p class="lead">USM Coach & Service Management Consultant</p>
 
-    <p>With over 15 years of experience in IT and enterprise service management, the author has helped organizations of all sizes transform their service delivery through practical, effective implementations of Unified Service Management principles.</p>
+    <p>Mikko Ahonen is the leading consultant for Jauzo Oy, with an extensive history working as an independent consultant in various technical development and coordination roles, including serving as Architect, Chief Product Owner, and CTO.</p>
 
-    <p>As a consultant, speaker, and educator, they have worked with Fortune 500 companies, government agencies, and startups to design and implement service management strategies that deliver measurable business value.</p>
+    <p>As a certified USM coach, Mikko helps organizations understand and deploy Unified Service Management. His practical, customer-focused approach combines deep technical expertise with a passion for simplifying complex service management challenges.</p>
   </div>
 </div>
+
+### About Simple USM
+
+Mikko authored **Simple USM** as an introductory guide to Unified Service Management, making the powerful USM method accessible to anyone wanting to understand its core concepts. The book distills the essential principles of USM into a practical, easy-to-follow format.
+
+The e-book was written with copious help from **Jan van Bon**, USM Chief Architect and the original author of the USM Method. Jan's extensive experience—including his role on the ITIL v3 guidance team (2006-2007)—brings deep service management expertise to the collaboration.
+
+Illustrations for the book were created by **Kalle Ahonen**, bringing visual clarity to USM's concepts and workflows.
 
 ### Professional Background
 
-The author's journey in service management began in the early days of ITIL adoption, where they witnessed firsthand both the successes and challenges organizations faced in implementing service management frameworks. This experience sparked a passion for finding simpler, more practical approaches that deliver results without unnecessary complexity.
+With a background spanning technical architecture, product ownership, and executive technology leadership, Mikko brings a unique perspective to service management:
 
-#### Key Accomplishments:
+- **Technical Expertise**: Deep understanding of systems, processes, and technology integration
+- **Strategic Leadership**: Experience as CTO and Chief Product Owner
+- **Customer-Driven Focus**: Commitment to transforming organizations from technology-driven to customer-driven maturity
+- **Practical Implementation**: Hands-on consultant helping organizations deploy USM effectively
 
-<div class="row mt-4 mb-4">
-  <div class="col-md-6 mb-3">
-    <div class="card">
-      <div class="card-body">
-        <h5 class="card-title"><i class="bi bi-award text-warning me-2"></i>Industry Recognition</h5>
-        <ul class="mb-0">
-          <li>Certified ITIL Expert</li>
-          <li>Certified SIAM Professional</li>
-          <li>Lean IT Practitioner</li>
-          <li>Industry conference speaker</li>
-        </ul>
-      </div>
-    </div>
-  </div>
-  <div class="col-md-6 mb-3">
-    <div class="card">
-      <div class="card-body">
-        <h5 class="card-title"><i class="bi bi-building text-primary me-2"></i>Consulting Experience</h5>
-        <ul class="mb-0">
-          <li>50+ successful implementations</li>
-          <li>Multiple industry sectors</li>
-          <li>Global project experience</li>
-          <li>Team training and development</li>
-        </ul>
-      </div>
-    </div>
-  </div>
-</div>
+### USM Coaching Philosophy
 
-### Philosophy
+> "USM is about making service management simple, practical, and effective. Organizations don't need more complexity—they need clear principles they can actually use."
 
-> "Service management doesn't have to be complicated. The best frameworks are those that people actually use. SimpleUSM is about cutting through complexity to focus on what truly matters: delivering value to your customers and your business."
+Mikko's coaching approach focuses on:
 
-The author believes that successful service management is built on three pillars:
+1. **Learning, Not Just Doing**: Helping organizations become self-sufficient in USM deployment
+2. **Simplicity**: Cutting through complexity to focus on what matters
+3. **Customer-Driven Maturity**: Moving beyond technology and systems to true customer focus
+4. **Practical Application**: Real workflows and processes that work in your organization
 
-1. **Clarity**: Understanding what you're trying to achieve and why
-2. **Practicality**: Implementing solutions that work in the real world
-3. **Continuous Improvement**: Always learning and adapting
+### The USM Method
 
-### Speaking & Workshops
+The USM Method was developed by the SURVUZ Foundation and authored by Jan van Bon. After years of working with complex frameworks like ITIL and ISO standards, Jan and his team created USM as a principle-based alternative that is:
 
-The author regularly speaks at industry conferences and conducts workshops on topics including:
+- Universal (works for any service)
+- Unified (harmonizes workflows across provider networks)
+- Free and open
+- Simple and non-redundant
+- Complementary to existing frameworks and standards
 
-- Unified Service Management implementation strategies
-- Digital transformation in service delivery
-- Breaking down organizational silos
-- Measuring and demonstrating service value
-- Change management for service organizations
+### Services Offered
 
-### Publications & Contributions
+As a certified USM coach, Mikko provides:
 
-In addition to SimpleUSM, the author has contributed to:
+- **USM Coaching**: Guided deployment with a focus on organizational self-sufficiency
+- **Consulting**: Technical development, architecture, and service management consulting through Jauzo Oy
+- **Training**: Helping teams understand and apply USM principles
+- **Implementation Support**: Practical assistance with workflows, profiles, and service structures
 
-- Industry journals and magazines
-- Technical whitepapers on service management
-- Online courses and training materials
-- Professional community forums and blogs
-
-### Connect
-
-Interested in bringing the author to speak at your event or organization?
+### Connect with Mikko
 
 <div class="row mt-4">
-  <div class="col-lg-8">
+  <div class="col-lg-10">
     <div class="card bg-light">
       <div class="card-body">
-        <h5 class="card-title">Get in Touch</h5>
-        <p class="card-text">For speaking engagements, consulting inquiries, or to share your USM journey, please reach out through the <a href="{{ site.baseurl }}/contact/">contact page</a>.</p>
-        <div class="mt-3">
-          {% if site.twitter_username %}
-            <i class="bi bi-twitter me-1"></i>Twitter
-          </a>
-          {% endif %}
-          <a href="https://linkedin.com" class="btn btn-outline-primary me-2 mb-2">
-            <i class="bi bi-linkedin me-1"></i><a href="https://www.linkedin.com/in/mikko-ahonen-8893b/">LinkedIn</a>
-          </a>
-          <a href="{{ site.baseurl }}/contact/" class="btn btn-primary mb-2">
-            <i class="bi bi-envelope me-1"></i><a href="mailto:mikko@usm.coach">mikko@usm.coach</a>
+        <h5 class="card-title mb-3">Get in Touch</h5>
+        <p class="card-text">Interested in USM coaching, consulting services, or have questions about deploying Unified Service Management in your organization?</p>
+
+        <div class="row g-3 mt-3">
+          <div class="col-md-6">
+            <div class="d-flex align-items-center">
+              <i class="bi bi-envelope-fill text-primary me-3" style="font-size: 1.5rem;"></i>
+              <div>
+                <strong>Email</strong><br>
+                <a href="mailto:mikko@usm.coach">mikko@usm.coach</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-6">
+            <div class="d-flex align-items-center">
+              <i class="bi bi-linkedin text-primary me-3" style="font-size: 1.5rem;"></i>
+              <div>
+                <strong>LinkedIn</strong><br>
+                <a href="https://www.linkedin.com/in/mikko-ahonen-8893b/" target="_blank">Connect on LinkedIn</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-6">
+            <div class="d-flex align-items-center">
+              <i class="bi bi-globe text-primary me-3" style="font-size: 1.5rem;"></i>
+              <div>
+                <strong>USM Coach</strong><br>
+                <a href="http://usm.coach" target="_blank">usm.coach</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-6">
+            <div class="d-flex align-items-center">
+              <i class="bi bi-building text-primary me-3" style="font-size: 1.5rem;"></i>
+              <div>
+                <strong>Jauzo Oy</strong><br>
+                <a href="http://jauzo.com" target="_blank">jauzo.com</a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="mt-4">
+          <a href="{{ site.baseurl }}/contact/" class="btn btn-primary">
+            <i class="bi bi-chat-dots me-2"></i>Contact Form
           </a>
         </div>
       </div>
     </div>
   </div>
+</div>
+
+### Collaboration & Credits
+
+**Simple USM** represents a collaboration between:
+
+- **Mikko Ahonen** - Author and USM Coach
+- **Jan van Bon** - USM Chief Architect (copious help with content)
+- **Kalle Ahonen** - Illustrator
+
+The book is published with permission from the **SURVUZ Foundation**, which owns and manages the USM Method.
+
+{{ site.book.copyright }}
+
+---
+
+<div class="alert alert-info mt-4">
+  <h5 class="alert-heading"><i class="bi bi-info-circle me-2"></i>Looking for USM Deployment Support?</h5>
+  <p class="mb-0">Whether you're just starting to explore USM or ready to deploy it in your organization, Mikko can help. From understanding the basics to full implementation coaching, get in touch to discuss your needs.</p>
 </div>

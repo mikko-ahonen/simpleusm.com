@@ -4,126 +4,148 @@ title: About the Book
 permalink: /about/
 ---
 
-## Making Unified Service Management Simple
+## An Introductory Guide to Unified Service Management
 
-**SimpleUSM** is your comprehensive guide to understanding and implementing Unified Service Management in today's complex IT landscape. Whether you're new to USM or looking to refine your approach, this book provides the practical insights and actionable strategies you need to succeed.
+**Simple USM** is an introductory e-book about USM, targeted at people who want to understand the basics of USM, for example for deploying USM with the help of a coach.
+
+It explains the core ideas of the USM method in a simple, condensed format. If you wish to gain wider or deeper understanding of the USM Method, for example to deploy USM without the help of a coach, you should refer to the comprehensive book **"The USM Method"**.
 
 ### What is Unified Service Management?
 
-Unified Service Management (USM) represents the evolution of IT Service Management (ITSM) to encompass all services across the enterprise—not just IT. It breaks down silos between departments and creates a cohesive approach to service delivery that aligns with business objectives.
+Unified Service Management (USM) is a method for Service Management with the following features:
 
-### Why This Book?
+- **Universal** - You can use it to manage any service
+- **Unified** - Allows workflows to cooperate harmoniously even in complex networks of service providers
+- **Principle-based** - Built on solid principles inspired by best practices, not prescriptive processes
+- **Free** - No royalties to pay for using it
+- **Simple** - Easy to learn and become self-sufficient
+- **Non-redundant** - Avoids duplication of work
+- **Open** - Fosters a culture of sharing ideas and practices
 
-In a world of complex frameworks and overwhelming documentation, **SimpleUSM** cuts through the noise to deliver:
+### Why USM?
 
-- **Clear Explanations**: No jargon-heavy text. Just straightforward explanations that make sense.
-- **Practical Guidance**: Real-world examples and case studies you can apply immediately.
-- **Step-by-Step Implementation**: Proven frameworks and methodologies for successful USM adoption.
-- **Best Practices**: Lessons learned from successful implementations across various industries.
+Frameworks and standards, such as ISO 20000-1, COBIT, or ITIL are collections of best practices. USM is built on principles inspired by those practices. Thus USM is complementary to them.
 
-### What Makes SimpleUSM Different?
+In fact, if you need certifications for your business, USM is probably the fastest, least expensive, least risky, and probably even the most useful way to do it. After you deploy USM, auditors can use a cross-reference from their requirements to the activities in workflows, profiles and other specifications of USM to demonstrate compliancy.
 
-Unlike other books on service management that focus heavily on theory, SimpleUSM emphasizes practical application. Each chapter builds on the previous one, taking you from foundational concepts to advanced implementation strategies.
+### From Services to Customer-Driven Organizations
 
-#### Key Features:
+Today all businesses are service businesses. For many companies it is not enough to just provide services—they need to become **customer-driven** to survive in a competitive market.
 
-<div class="row mt-4 mb-4">
-  <div class="col-md-6 mb-3">
-    <div class="card h-100">
-      <div class="card-body">
-        <h5 class="card-title"><i class="bi bi-diagram-3 text-primary me-2"></i>Comprehensive Framework</h5>
-        <p class="card-text">A complete framework for implementing USM that you can adapt to your organization's unique needs.</p>
-      </div>
-    </div>
-  </div>
-  <div class="col-md-6 mb-3">
-    <div class="card h-100">
-      <div class="card-body">
-        <h5 class="card-title"><i class="bi bi-briefcase text-primary me-2"></i>Real-World Examples</h5>
-        <p class="card-text">Case studies from organizations that have successfully implemented USM principles.</p>
-      </div>
-    </div>
-  </div>
-  <div class="col-md-6 mb-3">
-    <div class="card h-100">
-      <div class="card-body">
-        <h5 class="card-title"><i class="bi bi-tools text-primary me-2"></i>Practical Tools</h5>
-        <p class="card-text">Templates, checklists, and assessment tools you can use immediately in your organization.</p>
-      </div>
-    </div>
-  </div>
-  <div class="col-md-6 mb-3">
-    <div class="card h-100">
-      <div class="card-body">
-        <h5 class="card-title"><i class="bi bi-arrow-up-right text-primary me-2"></i>Scalable Approach</h5>
-        <p class="card-text">Strategies that work whether you're a small business or a large enterprise.</p>
-      </div>
-    </div>
-  </div>
-</div>
+This means focusing on long-term relationships with customers, instead of only looking at individual transactions. USM helps organizations evolve through service management maturity levels:
+
+- Technology-driven
+- System-driven
+- Service-driven
+- Customer-driven
+- Business-driven
+
+### What's Inside This E-Book
+
+#### 1. Introduction
+- About this e-book
+- The evolution from production to marketing orientation
+- From goods to services
+- Why USM?
+- About USM and its history
+
+#### 2. USM Core
+
+**Services and Resources:**
+- Understanding services as supported facilities
+- The three types of resources: processes (WHAT), people (WHO), technology (HOW)
+- Managed Infrastructure Register (MIR)
+
+**USM Processes:**
+The five core processes that describe anything a service organization does:
+- **Agree** - Managing the agreements
+- **Change** - Managing changes to managed resources
+- **Recover** - Recovering from service failure
+- **Operate** - Practical operations
+- **Improve** - Managing risks (both threats and opportunities)
+
+**Eight Workflow Paths:**
+- Changes to agreements
+- Changes to managed resources
+- Incidents with changes to managed resources
+- Incidents without changes to managed resources
+- Operations
+- Risks with changes to agreements
+- Risks with changes to managed resources
+- Risks solvable by operations activity
+
+**Organizational Structure:**
+- Profiles and contributions (RACI model)
+- USM-specific profiles: Workflow manager, Workflow coordinator, Operator, Team coordinator
+- Workflows that define HOW work gets done
+
+**Calls and Prioritization:**
+- How workflows are triggered
+- Priority based on impact and urgency
+- Managing calls efficiently
+
+#### 3. Service Level Agreement, Service Catalog and Performance Measurement
+
+- Standard structure for SLAs
+- Functionality and functioning of facilities and support
+- Service catalog as the menu of available services
+- Measuring service delivery
+
+#### 4. What Next?
+
+Several paths for USM deployment:
+- Self-learning with "The USM Method" book
+- Certified USM training for deeper understanding
+- Working with accredited USM Partners and certified experts
+- **Hiring a certified USM coach** to guide your organization to self-sufficiency
 
 ### Who Should Read This Book?
 
-SimpleUSM is designed for anyone involved in service delivery and management:
+This e-book is perfect for:
 
-- **IT Service Managers** looking to expand their scope beyond traditional ITSM
-- **Business Leaders** seeking to improve service delivery across the organization
-- **Consultants** wanting to help clients implement modern service management practices
-- **Students and Professionals** building their knowledge of enterprise service management
+- Service managers and coordinators
+- Workflow managers and operators
+- Anyone providing or consuming services
+- Organizations seeking to become customer-driven
+- Teams preparing for USM deployment with a coach
 
-### Table of Contents
+### About the USM Method
 
-1. **Introduction to Unified Service Management**
-   - The evolution from ITSM to USM
-   - Why USM matters today
-   - Key principles and concepts
+The USM Method was developed by SURVUZ Foundation and authored by USM Chief Architect **Jan van Bon**.
 
-2. **Building the Foundation**
-   - Understanding your current state
-   - Defining service architecture
-   - Identifying stakeholders
+Jan has extensive experience in Service Management, including being a member of the ITIL v3 guidance team between 2006-2007. He then became increasingly frustrated with the complexity of popular frameworks, including ITIL and various ISO standards, and started developing a simplified method for service management based on principles with a team of like-minded people. USM is the result of that work.
 
-3. **Strategy and Governance**
-   - Developing your USM strategy
-   - Establishing governance structures
-   - Aligning with business objectives
+The USM Method is owned and managed by the SURVUZ Foundation in the Netherlands.
 
-4. **Process and Practice**
-   - Core USM processes
-   - Service design and delivery
-   - Continuous improvement
+### Get the E-Book
 
-5. **Technology and Tools**
-   - Selecting the right platform
-   - Integration strategies
-   - Automation opportunities
-
-6. **People and Culture**
-   - Building service-oriented culture
-   - Skills and competencies
-   - Change management
-
-7. **Implementation Roadmap**
-   - Planning your journey
-   - Quick wins and long-term goals
-   - Measuring success
-
-8. **Case Studies and Examples**
-   - Healthcare organization transformation
-   - Financial services USM adoption
-   - Manufacturing sector success story
-
-### Get Started Today
-
-Ready to simplify your approach to service management? [Get the book](/contact/) and start your USM journey with confidence.
-
-<div class="alert alert-info mt-4">
-  <h5 class="alert-heading"><i class="bi bi-gift me-2"></i>Bonus Resources</h5>
-  <p>Every copy of SimpleUSM includes access to:</p>
-  <ul>
-    <li>Downloadable templates and tools</li>
-    <li>Online resource library</li>
-    <li>Updates and additional content</li>
-    <li>Community forum access</li>
-  </ul>
+<div class="row mt-4">
+  <div class="col-lg-8 mx-auto">
+    <div class="card bg-light">
+      <div class="card-body text-center p-4">
+        <h5 class="card-title mb-3">Download Simple USM</h5>
+        <p class="card-text mb-4">Ready to learn the fundamentals of Unified Service Management?</p>
+        <div class="d-flex gap-3 justify-content-center flex-wrap">
+          <a href="/assets/pdf/Simple_USM_v6.pdf" class="btn btn-primary" target="_blank">
+            <i class="bi bi-file-pdf me-2"></i>Download PDF
+          </a>
+          <a href="{{ site.baseurl }}/contact/" class="btn btn-outline-primary">
+            <i class="bi bi-envelope me-2"></i>Contact for Coaching
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
 </div>
+
+### Publication Information
+
+{{ site.book.copyright }}
+
+This publication contains copyrighted material from USM, and was published with the permission of the SURVUZ Foundation.
+
+**Written by:** {{ site.book.author }}
+**{{ site.book.coauthor }}**
+**Illustrations by:** {{ site.book.illustrator }}
+
+Website: [http://usm.coach](http://usm.coach)
