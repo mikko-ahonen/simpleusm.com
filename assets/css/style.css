@@ -5,8 +5,9 @@
   --primary-dark: #1e3a78;
   --primary-light: #4a7dd4;
   --secondary-color: #6c757d;
-  --accent-color: #F5A623;
-  --accent-light: #FFB84D;
+  --accent-color: #00BCD4;
+  --accent-light: #26CAE3;
+  --accent-dark: #0097A7;
   --light-bg: #F8F9FA;
   --white: #FFFFFF;
 }
@@ -261,7 +262,8 @@ footer a:hover {
   background-color: var(--accent-color);
   border-color: var(--accent-color);
   color: white;
-  box-shadow: 0 4px 15px rgba(245, 166, 35, 0.3);
+  box-shadow: 0 4px 15px rgba(0, 188, 212, 0.35);
+  font-weight: 600;
 }
 
 .btn-warning:hover,
@@ -269,7 +271,7 @@ footer a:hover {
   background-color: var(--accent-light);
   border-color: var(--accent-light);
   color: white;
-  box-shadow: 0 6px 25px rgba(245, 166, 35, 0.4);
+  box-shadow: 0 6px 25px rgba(0, 188, 212, 0.45);
   transform: translateY(-2px);
 }
 
