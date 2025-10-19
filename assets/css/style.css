@@ -1,9 +1,12 @@
 /* Custom styles for SimpleUSM */
 
 :root {
-  --primary-color: #0d6efd;
+  --primary-color: #2E5CB8;
+  --primary-dark: #1e3a78;
+  --primary-light: #4a7dd4;
   --secondary-color: #6c757d;
-  --accent-color: #ffc107;
+  --accent-color: #F5A623;
+  --accent-light: #FFB84D;
 }
 
 body {
@@ -13,7 +16,7 @@ body {
 
 /* Hero section */
 .hero {
-  background: linear-gradient(135deg, var(--primary-color) 0%, #0a58ca 100%);
+  background: linear-gradient(135deg, var(--primary-color) 0%, var(--primary-dark) 100%);
   color: white;
   padding: 80px 0;
 }
@@ -71,7 +74,7 @@ body {
 .testimonial {
   padding: 2rem;
   background: white;
-  border-left: 4px solid var(--accent-color);
+  border-left: 4px solid var(--primary-color);
   box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
   margin-bottom: 2rem;
 }
@@ -135,4 +138,65 @@ footer a:hover {
 
 .author-photo.rounded {
   border-radius: 50% !important;
+}
+
+/* Bootstrap color overrides */
+.bg-primary {
+  background-color: var(--primary-color) !important;
+}
+
+.navbar-dark {
+  background-color: var(--primary-color) !important;
+}
+
+.btn-primary {
+  background-color: var(--primary-color);
+  border-color: var(--primary-color);
+}
+
+.btn-primary:hover,
+.btn-primary:focus {
+  background-color: var(--primary-dark);
+  border-color: var(--primary-dark);
+}
+
+.btn-outline-primary {
+  color: var(--primary-color);
+  border-color: var(--primary-color);
+}
+
+.btn-outline-primary:hover,
+.btn-outline-primary:focus {
+  background-color: var(--primary-color);
+  border-color: var(--primary-color);
+  color: white;
+}
+
+.btn-warning {
+  background-color: var(--accent-color);
+  border-color: var(--accent-color);
+  color: white;
+}
+
+.btn-warning:hover,
+.btn-warning:focus {
+  background-color: var(--accent-light);
+  border-color: var(--accent-light);
+  color: white;
+}
+
+.text-primary {
+  color: var(--primary-color) !important;
+}
+
+.border-primary {
+  border-color: var(--primary-color) !important;
+}
+
+a {
+  color: var(--primary-color);
+}
+
+a:hover {
+  color: var(--primary-dark);
 }

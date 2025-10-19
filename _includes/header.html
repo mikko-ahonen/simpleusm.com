@@ -1,6 +1,8 @@
 <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
   <div class="container">
-    <a class="navbar-brand fw-bold" href="{{ site.baseurl }}/">{{ site.title }}</a>
+    <a class="navbar-brand" href="{{ site.baseurl }}/">
+      <img src="{{ site.baseurl }}/assets/images/usm_coach_logo_white.png" alt="{{ site.title }}" height="40" class="d-inline-block align-text-top">
+    </a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
@@ -19,7 +21,7 @@
           <a class="nav-link {% if page.url == '/contact/' %}active{% endif %}" href="{{ site.baseurl }}/contact/">Contact</a>
         </li>
         <li class="nav-item">
-          <a class="btn btn-warning ms-2" href="#buy">Get the Book</a>
+          <a class="btn btn-warning ms-2" href="/assets/pdf/Simple_USM_v6.pdf" target="_blank">Get the Book</a>
         </li>
       </ul>
     </div>
