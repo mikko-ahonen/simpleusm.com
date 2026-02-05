@@ -126,7 +126,7 @@ The USM Method is owned and managed by the SURVUZ Foundation in the Netherlands.
         <h5 class="card-title mb-3">Download Simple USM</h5>
         <p class="card-text mb-4">Ready to learn the fundamentals of Unified Service Management?</p>
         <div class="d-flex gap-3 justify-content-center flex-wrap">
-          <a href="/assets/pdf/Simple_USM_v6.pdf" class="btn btn-primary" target="_blank">
+          <a href="/assets/pdf/simple-usm-v7.pdf" class="btn btn-primary" target="_blank">
             <i class="bi bi-file-pdf me-2"></i>Download PDF
           </a>
           <a href="{{ site.baseurl }}/contact/" class="btn btn-outline-primary">

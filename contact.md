@@ -123,7 +123,7 @@ Whether you have questions about Simple USM, want to discuss USM coaching for yo
     </h2>
     <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#faqAccordion">
       <div class="accordion-body">
-        The Simple USM e-book is available as a free PDF download. Visit the <a href="/">home page</a> and click "Download E-Book" or download it directly <a href="/assets/pdf/Simple_USM_v6.pdf" target="_blank">here</a>.
+        The Simple USM e-book is available as a free PDF download. Visit the <a href="/">home page</a> and click "Download E-Book" or download it directly <a href="/assets/pdf/simple-usm-v7.pdf" target="_blank">here</a>.
       </div>
     </div>
   </div>
